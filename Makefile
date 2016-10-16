@@ -16,16 +16,6 @@ Ranking.o: Ranking.cpp
 
 
 
-# Utilidades diversas:
-#
-# La siguiente opción sirve para generar el zip que se ha de entregar; 
-# se ejecuta mediante el comando "make empaquetar"
-#
-
-#
-# Esta última opción sirve para limpiar el directorio de ficheros 
-# innecesarios; se ejecuta mediante el comando "make clean"
-#
 clean:
 	rm *.o
 	rm *.exe
