@@ -14,7 +14,7 @@ Ranking.o: Ranking.cpp
 	g++ -c Ranking.cpp -D_GLIBCXX_DEBUG 
 
 
-
+#
 
 clean:
 	rm *.o
